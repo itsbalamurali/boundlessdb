@@ -9,6 +9,12 @@
 			"revisionTime": "2017-07-02T08:40:17Z"
 		},
 		{
+			"checksumSHA1": "xp/2s4XclLL17DThGBI7jXZ4Crs=",
+			"path": "github.com/armon/go-metrics",
+			"revision": "9a4b6e10bed6220a1665955aa2b75afc91eb10b3",
+			"revisionTime": "2017-10-02T18:27:31Z"
+		},
+		{
 			"checksumSHA1": "t0fTCum1HbA8f+PyJNQZCby7Hpw=",
 			"path": "github.com/dgraph-io/badger",
 			"revision": "0a832a56be5ef8d0b4cb72dc81a34f48942174a8",
@@ -55,6 +61,30 @@
 			"path": "github.com/golang/protobuf/proto",
 			"revision": "130e6b02ab059e7b717a096f397c5b60111cae74",
 			"revisionTime": "2017-09-20T22:06:47Z"
+		},
+		{
+			"checksumSHA1": "Cas2nprG6pWzf05A2F/OlnjUu2Y=",
+			"path": "github.com/hashicorp/go-immutable-radix",
+			"revision": "8aac2701530899b64bdea735a1de8da899815220",
+			"revisionTime": "2017-07-25T22:12:15Z"
+		},
+		{
+			"checksumSHA1": "TNlVzNR1OaajcNi3CbQ3bGbaLGU=",
+			"path": "github.com/hashicorp/go-msgpack/codec",
+			"revision": "fa3f63826f7c23912c15263591e65d54d080b458",
+			"revisionTime": "2015-05-18T23:42:57Z"
+		},
+		{
+			"checksumSHA1": "9hffs0bAIU6CquiRhKQdzjHnKt0=",
+			"path": "github.com/hashicorp/golang-lru/simplelru",
+			"revision": "0a025b7e63adc15a622f29b0b2c4c3848243bbf6",
+			"revisionTime": "2016-08-13T22:13:03Z"
+		},
+		{
+			"checksumSHA1": "JjJtGJi1ywWhVhs/PvTXxe4TeD8=",
+			"path": "github.com/hashicorp/raft",
+			"revision": "6d14f0c70869faabd9e60ba7ed88a6cbbd6a661f",
+			"revisionTime": "2017-10-03T22:09:13Z"
 		},
 		{
 			"checksumSHA1": "rJab1YdNhQooDiBWNnt7TLWPyBU=",
