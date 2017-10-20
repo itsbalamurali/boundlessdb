@@ -1,0 +1,133 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "+Bo3QheGAtKFk7QPb+pdIEZNiYI=",
+			"path": "github.com/AndreasBriese/bbloom",
+			"revision": "28f7e881ca57bc00e028f9ede9f0d9104cfeef5e",
+			"revisionTime": "2017-07-02T08:40:17Z"
+		},
+		{
+			"checksumSHA1": "t0fTCum1HbA8f+PyJNQZCby7Hpw=",
+			"path": "github.com/dgraph-io/badger",
+			"revision": "0a832a56be5ef8d0b4cb72dc81a34f48942174a8",
+			"revisionTime": "2017-10-14T10:52:20Z"
+		},
+		{
+			"checksumSHA1": "oOuT7ebEiZ1ViHLKdFxKFOvobAQ=",
+			"path": "github.com/dgraph-io/badger/options",
+			"revision": "0a832a56be5ef8d0b4cb72dc81a34f48942174a8",
+			"revisionTime": "2017-10-14T10:52:20Z"
+		},
+		{
+			"checksumSHA1": "FB7rDZgiLfpIGi9RqWbgxjZ0Vjg=",
+			"path": "github.com/dgraph-io/badger/protos",
+			"revision": "0a832a56be5ef8d0b4cb72dc81a34f48942174a8",
+			"revisionTime": "2017-10-14T10:52:20Z"
+		},
+		{
+			"checksumSHA1": "PbfYA5nvlgi/zvRHlKJQRDb149s=",
+			"path": "github.com/dgraph-io/badger/skl",
+			"revision": "0a832a56be5ef8d0b4cb72dc81a34f48942174a8",
+			"revisionTime": "2017-10-14T10:52:20Z"
+		},
+		{
+			"checksumSHA1": "UgfxWhZOWz69O8f6KsaBJGeXzFM=",
+			"path": "github.com/dgraph-io/badger/table",
+			"revision": "0a832a56be5ef8d0b4cb72dc81a34f48942174a8",
+			"revisionTime": "2017-10-14T10:52:20Z"
+		},
+		{
+			"checksumSHA1": "wfXCTe4hMkTrrMPtU8N1SxTFR08=",
+			"path": "github.com/dgraph-io/badger/y",
+			"revision": "0a832a56be5ef8d0b4cb72dc81a34f48942174a8",
+			"revisionTime": "2017-10-14T10:52:20Z"
+		},
+		{
+			"checksumSHA1": "FCHRnXIurWk5RfGtQWiFE60XVK4=",
+			"path": "github.com/dgryski/go-farm",
+			"revision": "e2d0fe22b456fa0a35cd883ba355ecfcf1881490",
+			"revisionTime": "2017-05-02T03:43:17Z"
+		},
+		{
+			"checksumSHA1": "yqF125xVSkmfLpIVGrLlfE05IUk=",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "130e6b02ab059e7b717a096f397c5b60111cae74",
+			"revisionTime": "2017-09-20T22:06:47Z"
+		},
+		{
+			"checksumSHA1": "rJab1YdNhQooDiBWNnt7TLWPyBU=",
+			"path": "github.com/pkg/errors",
+			"revision": "f15c970de5b76fac0b59abb32d62c17cc7bed265",
+			"revisionTime": "2017-10-18T19:55:50Z"
+		},
+		{
+			"checksumSHA1": "I5DMrLM0FpmvG81tAWZ3zoydBIo=",
+			"path": "github.com/sirupsen/logrus",
+			"revision": "181d419aa9e2223811b824e8f0b4af96f9ba9302",
+			"revisionTime": "2017-07-28T07:42:14Z"
+		},
+		{
+			"checksumSHA1": "AEhbo+ngM14A/E4LwHOspRTrpJk=",
+			"path": "github.com/spf13/viper",
+			"revision": "16990631d4aa7e38f73dbbbf37fa13e67c648531",
+			"revisionTime": "2016-08-30T14:32:46Z"
+		},
+		{
+			"checksumSHA1": "2FXpVSFau1MitMNOmyC6ldxMCPs=",
+			"path": "github.com/xwb1989/sqlparser",
+			"revision": "40ef6b5129b1046933e76a15701cfe012daab5ab",
+			"revisionTime": "2017-10-19T04:33:44Z"
+		},
+		{
+			"checksumSHA1": "L/Q8Ylbo+wnj5whDFfMxxwyxmdo=",
+			"path": "github.com/xwb1989/sqlparser/dependency/bytes2",
+			"revision": "40ef6b5129b1046933e76a15701cfe012daab5ab",
+			"revisionTime": "2017-10-19T04:33:44Z"
+		},
+		{
+			"checksumSHA1": "f9K0yQdwD0Z2yc3bmDw2uqXt4hU=",
+			"path": "github.com/xwb1989/sqlparser/dependency/hack",
+			"revision": "40ef6b5129b1046933e76a15701cfe012daab5ab",
+			"revisionTime": "2017-10-19T04:33:44Z"
+		},
+		{
+			"checksumSHA1": "xpu1JU/VZ7gGNbU5Ol9Nm1oS4tY=",
+			"path": "github.com/xwb1989/sqlparser/dependency/querypb",
+			"revision": "40ef6b5129b1046933e76a15701cfe012daab5ab",
+			"revisionTime": "2017-10-19T04:33:44Z"
+		},
+		{
+			"checksumSHA1": "mFTq+dyp/IfBJraqwe9//v43PYc=",
+			"path": "github.com/xwb1989/sqlparser/dependency/sqltypes",
+			"revision": "40ef6b5129b1046933e76a15701cfe012daab5ab",
+			"revisionTime": "2017-10-19T04:33:44Z"
+		},
+		{
+			"checksumSHA1": "dr5+PfIRzXeN+l1VG+s0lea9qz8=",
+			"path": "golang.org/x/net/context",
+			"revision": "cd69bc3fc700721b709c3a59e16e24c67b58f6ff",
+			"revisionTime": "2017-10-17T20:25:22Z"
+		},
+		{
+			"checksumSHA1": "UxahDzW2v4mf/+aFxruuupaoIwo=",
+			"path": "golang.org/x/net/internal/timeseries",
+			"revision": "cd69bc3fc700721b709c3a59e16e24c67b58f6ff",
+			"revisionTime": "2017-10-17T20:25:22Z"
+		},
+		{
+			"checksumSHA1": "u/r66lwYfgg682u5hZG7/E7+VCY=",
+			"path": "golang.org/x/net/trace",
+			"revision": "cd69bc3fc700721b709c3a59e16e24c67b58f6ff",
+			"revisionTime": "2017-10-17T20:25:22Z"
+		},
+		{
+			"checksumSHA1": "/vc89vae+AsvNTGofKHOmmGRUfU=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "8dbc5d05d6edcc104950cc299a1ce6641235bc86",
+			"revisionTime": "2017-10-13T13:31:29Z"
+		}
+	],
+	"rootPath": "github.com/itsbalamurali/boundlessdb"
+}
